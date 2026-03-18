@@ -1,1 +1,6 @@
 /data
+/checkpoints
+*.pth
+*.png
+__pycache__/
+.vscode/
