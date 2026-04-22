@@ -1,6 +1,3 @@
-[submodule "PVD"]
-	path = PVD
-	url = https://github.com/LegoCreation/PVD.git
 [submodule "occupancy_networks"]
 	path = occupancy_networks
 	url = https://github.com/LegoCreation/occupancy_networks.git
