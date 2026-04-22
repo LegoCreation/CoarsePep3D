@@ -5,11 +5,10 @@ Tools for generating and analyzing synthetic coarse-grained peptide structures. 
 ## Script folder contains:
 
 - Synthetic peptide generation in `generate_synthetic_peptides.py`
-- Dataset helpers in `synthetic_peptides_dataset.py`
+- Dataset class in `synthetic_peptides_dataset.py`
 - Train/val/test split creation in `create_data_splits.py`
 - Trajectory frame extraction in `process_peptide_trajectories.py`
 - Interactive visualization in `visualize_peptides.py`
-- Experiment notebooks and saved model weights
 
 ## Requirements
 
