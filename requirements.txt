@@ -1,0 +1,16 @@
+numpy==2.3.5
+matplotlib==3.10.8
+scipy
+pandas
+scikit-image
+tqdm
+Pillow
+PyYAML
+torch
+torchvision
+trimesh
+h5py
+tensorboardX
+MDAnalysis
+streamlit
+plotly
